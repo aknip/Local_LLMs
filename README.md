@@ -1,12 +1,12 @@
 # Local_LLMs
 
 # Run from an virtualenv
+**Create virtualenv:**
 - python3 -m virtualenv myenv 
 - source myenv/bin/activate 
-- # pip install notebook
 - jupyter notebook
 
-# exit virtualenv with:
+**Exit virtualenv:**
 deactivate
 
 
