@@ -1,0 +1,22 @@
+version: '3.8'
+
+services:
+  open-webui:
+    image: ghcr.io/open-webui/open-webui:main
+    container_name: open-webui
+    ports:
+       - "3000:8080"
+    extra_hosts:
+       - "host.docker.internal:host-gateway"
+    volumes:
+       - ./open-webui:/app/backend/data
+    environment:
+       #- "OLLAMA_BASE_URL=http://ollama:11434"
+       - "WEBUI_SECRET_KEY=1234"   
+    restart: unless-stopped
+
+volumes:
+  open-webui:
+
+# docker-compose run open-webui /bin/bash
+# then: ECHO $WEBUI_SECRET_KEY
