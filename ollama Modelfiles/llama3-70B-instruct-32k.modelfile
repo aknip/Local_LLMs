@@ -1,0 +1,3 @@
+FROM llama3:70b-instruct
+# sets the context window size to 32768, this controls how many tokens the LLM can use as context to generate the next token
+PARAMETER num_ctx 32768

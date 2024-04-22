@@ -1,0 +1,3 @@
+prompts: [file://prompts.txt]
+providers: [openai:gpt-3.5-turbo]
+tests: tests.csv

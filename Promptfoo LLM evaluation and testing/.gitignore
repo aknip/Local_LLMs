@@ -1,0 +1,9 @@
+scratch
+*.sw[op]
+*.log
+.DS_Store
+node_modules
+dist
+.aider*
+
+__pycache__
