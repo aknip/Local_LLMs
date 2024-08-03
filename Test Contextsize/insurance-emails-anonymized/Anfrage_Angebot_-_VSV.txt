@@ -1,0 +1,130 @@
+
+# Email Nachricht:
+
+From: Stone, John
+Sent: Thu, 05 Oct 2023 17:27:10 +0200
+Bcc: Smith, Michael <Michael.Smith@FreedomGlobalGroup.com>; Verneville, Markus <mverneville@abcinsurance.com>; John Doe <John.Doe@allianz-trade.com>; martin.grewe@zurich.com <martin.grewe@zurich.com>
+Subject: Anfrage Angebot - VSV - ABC Holding GmbH  
+-----------------
+
+Sehr geehrte Damen und Herren,
+
+ 
+
+anbei erhalten Sie folgende Unterlagen zu der im Betreff genannten Interessentin, mit der Bitte um Ihre Anhaltsquotierung auf Basis der Bedingungen VSV in ihrer jeweils aktuellen Fassung:
+
+ 
+
+*	Mitarbeiter Aufstellung 
+
+ 
+
+Bitte berücksichtigen Sie die folgenden Deckungssumme: EUR 5,0 Mio.
+
+ 
+
+SB: EUR 5.000,00
+
+ 
+
+Als Termin für den Abschluss dieser Ausschreibung haben wir den 13.10.2023 vorgesehen. Sofern weitere Unterlagen erforderlich sind, bitten wir Sie, dies in Ihren Vorbehalten aufzuführen.
+
+ 
+
+Soweit sich hiernach Fragen ergeben, stehen wir Ihnen auch mit einer telefonischen Auskunft gerne zur Verfügung.
+
+ 
+
+Mit besten Grüßen
+
+ 
+
+John van den Stone, B.A.
+Junior Cyber Specialist
+Operations Manager Cyber & Crime Unit
+
+T
+M
+E
+
++49 (0)211 940 83 - 59
++49 (0)173 - 439 51 40
+john.stone@stone-makler.de <mailto:%20john.stone@stone-makler.de;> 
+
+ <http://www.stone-makler.de/> 
+
+ <https://app.mailtastic.de/api/linkserve/campaign/e5c823cc-fbd1-425d-b682-61090cc8825f/16097> 
+
+Stone GmbH
+Fiction-Street 8 | 40474 NewCity
+T +49 (0) 211 940 83 - 0 | F +49 (0) 211 940 83 - 83
+www.stone-makler.de <http://www.stone-makler.de> 
+
+ <https://www.xing.com/companies/howdengermanygmbh> 
+
+ <https://www.linkedin.com/company/howden-germany-gmbH> 
+
+ <https://twitter.com/Managerhaftung> 
+
+ <https://www.youtube.com/user/managerhaftung> 
+
+ <https://www.instagram.com/digitalemanufaktur/> 
+
+Geschäftsführer: Marcel Braun | HRB 51309, NewCity
+Vermittlerregister D-9LDM-PE9NW-83 | Download Informationen gem. § 15 VersVermV:
+https://stone-makler.de/download/statusinformation/ <https://stone-makler.de/download/statusinformation/> 
+
+Hinsichtlich der im Rahmen unserer Dienstleistung von uns gespeicherten oder in sonstiger Weise verarbeiteten personenbezogenen Daten verweisen wir auf den Datenschutzhinweis („Information zur Verwendung Ihrer Daten <https://stone-makler.de/wp-content/uploads/2023/03/stone-Datenschutz-0922.pdf> “) 
+
+ 
+
+
+
+
+
+
+# Organigramm:
+
+ABC - Unternehmensgruppe
+Organigramm
+FirmaAnteil 
+ObergesellschaftUmsatz 2022 in EURMitarbeiter
+anzahl 
+aktuell
+A Dr. Smith -- --
+A.1 ABC Holding GmbH 100,0% 11.067.877,55 40
+A.1.1 ABC Baumanagement GmbH 100,0% * 19
+A.1.2 FSM Facility Service Management GmbH 100,0% 291.416,50 --
+A.1.3 ABC Berlin Mitte Wohnungsvermittlungs GmbH 100,0% 0 --
+A.1.4 ABC Mendelssohn Palais GmbH 100,0% 1.691.301,00 --
+A.1.5 ABC 1 Invest GmbH & Co. KG 100,0% 0 --
+A.1.5.a ABC Tegel Center GmbH 100,0% 0 --
+A.1.5.a.a ABC Tegel Quartier GmbH 94,9% 7.167.996,27 --
+A.1.5.b ABC 2. Beteiligungs GmbH 89,8% 0 --
+A.1.5.b.a ABC Schultheiss Quartier Beteiligung GmbH 100,0% 0 --
+A.1.5.b.a.1 ABC Schult.Quartier GmbH&CoKG 100,0% 17.947.461,75 --
+A.1.6 ABC Bachstraße GmbH 100,0% 44.094,66 --
+A.1.7 ABC FMZ 1 GmbH 100,0% 2.635.204,17 --
+A.1.8 ABC Kranoldplatz GmbH 100,0% 2.567.285,49 --
+A.1.9 ABC Berliner Straße GmbH 100,0% 309.353,15 --
+A.1.10 ABC Potsdamer GmbH 100,0% 46.445,56 --
+A.1.11 High Gain House Investments GmbH 100,0% 0 --
+A.1.11.a ABC Leipziger Platz GmbH & Co KG 5,1% ** --
+A.1.11.b ABC LP 125 GmbH & Co KG 5,1% ** --
+A.1.12 ABC Ostpreussendamm GmbH 100,0% 0 --
+A.1.13 ABC Projektgesellschaft mbH 100,0% 0 --
+A.1.14 ABC 1 Immo GmbH & Co. KG 89,9% 993.515,77 --
+A.2 ABC Immobilien Verwaltung GmbH 100,0% 6.108.923,57 12
+A.3 ABC Centermanagement GmbH 100,0% 1.590.818,57 9
+A.4 ABC Tegel Markthalle GmbH 100,0% 741.910,03 --
+A.5 ABC 2. Beteiligungs GmbH (siehe Pos. A.1.5.b) 5,1% wie oben --
+A.6 ABC Komplementär GmbH 100,0% 7.500,00 --
+A.7 ABC 1 Immo GmbH & Co. KG (siehe Pos. A.1. 14.) 10,1% wie oben --
+A.8 ABC Immobilien GmbH & Co. Leipziger Straße 125 KG 100,0% 1.656.769,37 --
+A.9 ABC Projektentw. GmbH & Co KG 100,0% 0 --
+Die angegebenen Umsatzerlöse 2022 ergeben  sich größtenteils aus den ersten Jahresabschlüssen der einzelnen Gesellschaften.
+Vereinzelt liegen diese im Moment in der Entwurfsfassung vor, sodass sich Beträge noch final ändern können.
+*Betrag noch nicht  verfügbar; insbesondere abhängig  von Bestandsveränderungen
+**Auskunftsgemäß keine Angabe erforderlich bei Minderheitenbeteiligungen
+Die Mitarbeiteranzahl beruht auf der Mitarbeiteranzahl im Abrechnungsmonat August 2023.Ebene
+Seite 1 von 1 Status: 07.09.2023

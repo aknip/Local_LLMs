@@ -1,0 +1,321 @@
+
+Von:	Max Mustermann <mm@neu-alt.de>
+Gesendet:	Montag, 9. Oktober 2023 16:42
+An:	Blitz, Leo
+Cc:	Hoffmann, Andreas
+Betreff:	XYZ Elektronik GmbH | Angebot zur Cyber-Versicherung | unsere Ref. 1234
+Anlagen:	Langfragebogen_Cyber_02_2021_Müller.pdf
+
+Sehr geehrter Herr van den Blitz,
+
+für die von uns betreute XYZ Elektronik GmbH, Einsteinstraße 30, 12345 Neuhausen 
+bitten wir Sie, uns eine Anhaltsquotierung zum Abschluss einer Cyber-Versicherung 
+zukommen zu lassen.
+ 
+Das Unternehmen beschäftigt im Moment 39 Personen (inklusive Geschäftsführung und 
+Minijober). Der Umsatz betrug im vergangen Jahr ausreisermäßig EUR 20,0. Für das 
+laufende Jahr geht man von einem Jahresumsatz wie in den vergangenen Jahren üblich- 
+von rund EUR 13,0 Mio. aus.
+ 
+Der Schwerpunkt der Tätigkeit bei XYZ liegt in der Konstruktion und Entwicklung von 
+Industrie-Elektronik, der Herstellung und dem Vertrieb von Displays-Digital Signage, die 
+bspw. an Messegesellschaften, Hotelketten o.ä. weltweit vertreiben werden.
+
+Die GF der VN hat den beiliegenden Risikofragebogen (noch von Müller) von den IT-
+Mitarbeiter ausfüllen lassen.
+ 
+Weitere Einzelheiten können Sie der Homepage des Unternehmens unter 
+https://www.xyz.de/de/ entnehmen.
+
+Mit freundlichen Grüßen
+ 
+Max Mustermann
+Prokurist
+
+Tel.: +49 (0)211 - 12345-67
+Fax: +49 (0)211 - 12345-89 
+E-Mail: mm@neu-alt.de
+Web: www.neu-alt.de
+
+Neu & Alt GmbH & Co. KG
+Musterstraße 123
+D-12345 Neuhausen
+
+ 
+
+CONFIDENTIALITY AND DISCLAIMER NOTICE
+ 
+This e-mail is intended only for the addressees named in it. The contents should not be disclosed to any other person nor copies taken. If you are not the 
+addressee, please return to na@neu-alt.de. Any views or opinions presented are solely those of the sender and do not necessarily represent those 
+of Neu & Alt unless otherwise specifically stated. Neu & Alt does not accept legal responsibility for the contents of this message nor 
+responsibility for any change made to it after it was sent by the original sender. You are advised to carry out a virus check before opening any attachment 
+as Neu & Alt does not accept liability for any damage sustained as a result of any software viruses. You should be aware that Neu & Alt 
+reserves the right to read incoming and outgoing emails.
+ 
+Der Inhalt dieser E-Mail ist vertraulich und ausschließlich für den bezeichneten Adressaten bestimmt. Wenn Sie nicht der vorgesehene Adressat dieser E-
+Mail oder dessen Vertreter sein sollten, so beachten Sie bitte, dass jede Form der Kenntnisnahme, Veröffentlichung, Vervielfältigung oder Weitergabe des 
+Inhalts dieser E-Mail unzulässig ist. Wir bitten Sie, sich in diesem Fall mit dem Absender der E-Mail in Verbindung zu setzen.
+
+Neu & Alt GmbH & Co. KG | Musterstraße 123 | D-12345 Neuhausen | Amtsgericht Neuhausen HRA 567
+
+Informationen gem. §15 VersVermV:
+https://www.neu-alt.de/Pflichtinformationen_NA.pdf
+
+Pers. haftende Gesellschafterin: Alt Verwaltungs GmbH, Neuhausen | Amtsgericht Neuhausen HRB 78910 | Geschäftsführer: Dr. T. Mustermann
+RISIKOERFASSUNG CYBER-VERSICHERUNG  1
+STAND: 02/2021
+MÜLLER AG | SCHILLERALLEE 42 | 12345 NEUSTADTRISIKOERFASSUNG CYBER-VERSICHERUNG 
+Die folgenden Fragen bitten wir zur Ermittlung des zu versichernden Risikos zu beantworten. 
+Es handelt sich dabei um Fragen des Versicherers im Sinne von § 19 Abs. 1 VVG. Wegen der Folgen einer  
+möglichen Verletzung vertraglicher Anzeigepflichten bitten wir um Kenntnisnahme der auf letzten Seite  
+dieses Fragebogens abgedruckten gesonderten Mitteilung. Sollten Sie etwas nicht beantworten können oder 
+eine Frage nicht auf Ihr Unternehmen anwendbar sein, lassen Sie diese bitte einfach frei.
+1. Allgemeine Angaben
+Firma
+Anschrift
+Internetadresse
+Gründungsjahr
+Sind weitere Unternehmen als Mitversicherte zu berücksichtigen?
+Bitte Firma und Anschrift sowie das Verhältnis zur Muttergesellschaft nennen und Organigramm beifügen.
+  nein    ja, nämlich:
+Hinweis: Bitte beantworten Sie die nachstehenden Fragen für die Gesamtheit der zu versichernden Unter- 
+nehmen. Sofern sich für einzelne Mitzuversichernde abweichende Aussagen ergeben, beantworten Sie die 
+jeweiligen Fragen für die betreffenden Unternehmen bitte separat.
+Betreiben Sie Standorte außerhalb des Europäischen Wirtschaftsraumes?
+  nein    ja, nämlich:
+Beschreibung der Geschäftstätigkeit Ihres Unternehmens und etwaiger mitzuversichernder  
+Unternehmen - ggfs. separates Beiblatt - 
+Bitte geben Sie nachfolgend die Umsatzdaten* Ihres Unternehmens – inkl. mitzuversichernder  
+Unternehmen - des   aktuellen oder   letzten Geschäftsjahres an.
+Umsatz insgesamt /  
+Bei Kommunen/Vereinen etc. bitte Haushaltssumme angeben
+- davon Deutschland 
+- davon restliches Europa 
+- davon USA / Kanada 
+- davon Rest der Welt 
+Umsatz aus online-Verkäufen oder online-Dienstleistungen
+- davon über eigenen Online-Shop 
+- davon über Drittanbieterplattformen 
+Umsatz aus IT/web- gestützter Produktion „Industrie 4.0“
+Nur bei Branche „Finanzinstitut“: Bilanzsumme
+Anzahl Mitarbeiter 
+* Angaben bitte in Mio. EURRISIKOERFASSUNG CYBER-VERSICHERUNG  2
+STAND: 02/2021
+MÜLLER AG | SCHILLERALLEE 42 | 12345 NEUSTADT3. Umfang und Art der Kreditkartentransaktionen
+Akzeptieren Sie Kreditkartenzahlungen?  nein       ja
+Falls ja: Bitte nachstehende Frage beantworten:
+Wer verarbeitet und speichert die Kreditkartendaten?
+ Innerhalb der zu versichernden Unternehmen werden keinerlei Kreditkartendaten verarbeitet oder gespeichert
+ Dienstleister, nämlich: 
+ Die zu versichernden Unternehmen selbst
+Falls die zu versichernden Unternehmen selbst Kreditkartendaten verarbeiten, bitte nachstehende Fragen  
+beantworten:
+Anzahl der Zahlungen p.a.: 
+Volumen der Zahlungen p.a.:
+Händlerkategorie (Level 1 – 4):
+Finden die aktuell geltenden Payment Card Industry Data Security  
+Standards (PCI DSS) bei Ihnen Anwendung?   nein      ja
+Haben die zu versichernden Unternehmen die PCI-Compliance erreicht?  nein       ja2. Umfang der Verarbeitung und Speicherung personenbezogener Daten
+Welche sensiblen Informationen werden im Rahmen des Geschäftsbetriebes der zu versichernden Unternehmen 
+gesammelt, verarbeitet und gespeichert? Wie viele Datensätze liegen jeweils vor?
+Bitte Zutreffendes ankreuzen. Mehrfach vorhandene Datensätze zu einer Person zählen „einfach“.
+Bitte berücksichtigen Sie sämtliche Datensätze, z.B. zu Kunden, Lieferanten, Dienstleistern und Mitarbeitern. 
+Personenbezogene Daten
+Einzelangaben über persönliche oder sachliche Verhältnisse einer bestimmten oder bestimmbaren natürlichen 
+Person (Betroffener).
+ 1 - 20.000 Datensätze   20.001 - 100.000 Datensätze   100.001 - 500.000 Datensätze
+ 500.001 - 1.000.000 Datensätze   über 1.000.000 Datensätze
+davon besonders sensible Daten
+Angaben über die ethnische Herkunft, politische Meinungen, religiöse oder philosophische Überzeugungen, 
+Gewerkschaftszugehörigkeit, Gesundheit oder Sexualleben.
+ 1 - 20.000 Datensätze   20.001 - 100.000 Datensätze   100.001 - 500.000 Datensätze
+ 500.001 - 1.000.000 Datensätze   über 1.000.000 Datensätze
+Bitte spezifizieren Sie die Art dieser Daten.
+davon Abrechnungsdaten
+Angaben über Kontoverbindungen, Kreditkartendaten
+ 1 - 20.000 Datensätze   20.001 - 100.000 Datensätze   100.001 - 500.000 Datensätze
+ 500.001 - 1.000.000 Datensätze   über 1.000.000 DatensätzeRISIKOERFASSUNG CYBER-VERSICHERUNG  3
+STAND: 02/2021
+MÜLLER AG | SCHILLERALLEE 42 | 12345 NEUSTADT5. Umfang und Art der Auslagerung auf externe IT-Dienstleister und Cloud- Dienstleister
+Lagert Ihr Unternehmen IT-Dienste oder digitale Infrastrukturen an externe Dritte aus  
+(z.B. Cloud-Infrastrukturen wie SaaS, IaaS; Co-Location, Webhosting)? 
+  nein    ja
+Wenn ja: Geben Sie nachfolgend bitte Namen und Sitz des Dienstleisters, sowie eine kurze Beschreibung von 
+Art und Umfang des fremdvergebenen Arbeitsinhalts. 4. Unternehmensorganisation und –führung zur Informations- und Datenverarbeitung 
+Setzen Sie Standards zu Informationssicherheitsmanagementsystem um (z. B. ISO 27001,  
+BSI-Grundschutz)?
+  nein    ja, nämlich:
+Hat Ihr Unternehmen zu folgenden Inhalten Richtlinien dokumentiert und im Unternehmen umgesetzt? 
+(Zutreffendes bitte ankreuzen | Richtlinie ggfs. beifügen)
+Datenschutz  nein       ja
+IT-Sicherheit  nein       ja
+Werden regelmäßig Datenschutzaudits durchgeführt, um zu bestätigen, dass die unternehmens- 
+internen Richtlinien für Geheimhaltung, Vertraulichkeit und Datenschutz eingehalten werden?
+  nein    ja, Turnus: 
+Ist eine explizite Verantwortlichkeit für Cybersicherheit etabliert (z.B. die Rolle eines ISO oder CISO, 
+auch Teilzeit)?
+  nein    ja, nämlich:
+Werden regelmäßig Audits mit Risikobewertungen durchgeführt, um zu bestätigen, dass die Sicher -
+heitsrichtlinie des Unternehmens eingehalten werden?
+  nein    ja, Turnus: 
+Werden regelmäßig Penetrationstests durchgeführt?
+  nein   ja, Turnus: 
+Finden regelmäßig Awareness-Maßnahmen statt, die Ihre Mitarbeiter gegenüber Themen des Daten-
+schutzes, der Datensicherheit und der Cyberkriminalität sensibilisieren (z. B. Schulungen, Intranet-
+Beiträge)?
+  nein   nein, aber geplant, nämlich:  
+   ja 
+Wenn ja: Bitte beschreiben Sie Art und Turnus der Schulungen und ob/wie die Teilnahme der Mitarbeiter nach-
+gehalten wird.
+Dürfen Mitarbeiter private Geräte für dienstliche Zwecke verwenden?
+  nein    jaRISIKOERFASSUNG CYBER-VERSICHERUNG  4
+STAND: 02/2021
+MÜLLER AG | SCHILLERALLEE 42 | 12345 NEUSTADT6. Datenhaltung /-schutz 
+Ist ein Datenschutzbeauftragter bestellt?  nein     ja
+Wenn ja: Sind jährliche Reports des Datenschutzbeauftragten vorhanden?
+  nein    ja
+Existiert eine Aufstellung aller Systeme, Anwendungen und unterstützenden Infrastrukturen  
+(z. B. Server, Datenbanken), die personengebundene oder sonstige sensible Informationen sammeln, 
+verarbeiten oder speichern?
+  nein    ja
+Setzen Sie Maßnahmen zur sicheren Löschung von Datenbeständen um?
+  nein    ja
+Bezogen auf unternehmenskritische Daten 
+Führen Sie eine mind. werktägliche Datensicherung durch? 
+  ja    nein, sondern:
+Werden regelmäßige Wiederherstellungstests der Back-ups durchgeführt?
+  nein   ja, Turnus: 
+Haben Sie (offline) vollständige Back-ups auf separierten Systemen gespeichert, die nicht älter als eine Woche sind?
+  nein    ja
+Wenn nicht, beschreiben Sie das Back-up–Konzept genauer.
+Sind gestaffelte Langzeitbackups, um Wiederherstellungszeitpunkte von vor mindestens einem Jahr 
+erreichen zu können, etabliert?
+  nein    ja
+Erfolgt grundsätzlich eine Verschlüsselung sensibler Daten, die auf Laptops und anderen  
+mobilen Geräten gespeichert werden?
+  nein    jaWelche der oben aufgeführten Fremdleistungen sind unternehmenskritisch, d.h. der Ausfall  
+welcher Fremdleistung führt bei Ihnen zu einer Betriebsunterbrechung?
+  
+Ist für die oben benannten geschäftskritischen Fremdleistungen eine Vergütung vorgesehen?
+  nein    ja
+Haben Sie vertraglich vereinbart, dass permanent mindestens eine der folgenden Zertifizierungen  
+vorzuhalten ist: Tier Level 3-4, TÜViT Level 3-4 oder ISO27001?
+  nein    jaRISIKOERFASSUNG CYBER-VERSICHERUNG  5
+STAND: 02/2021
+MÜLLER AG | SCHILLERALLEE 42 | 12345 NEUSTADT7. Netzwerksicherheit 
+Setzen Sie zur Abschottung des internen Netzwerkes Firewalls ein und werden Downloads und Mailempfang 
+grundsätzlich auf Schadsoftware hin untersucht?  
+  nein    ja
+Setzen Sie Virenschutz mit automatischer Update-Funktion auf Servern und Clients (Desktop-Computer, Laptops 
+und Terminals) ein?
+  nein    ja
+Sind drahtlose Übertragungssysteme durch WPA/WPA2, IPSEC oder TLS/SSL geschützt?
+  nein    ja
+Segmentierung
+Welche Maßnahmen wurden ergriffen, um zu verhindern, dass Schadsoftware zwischen den einzelnen  
+Standorten mitzuversichernder Gesellschaften übertragen werden können (Segmentierung der IT-Systeme)?
+Sind IT-Systeme, die aus dem Internet erreichbar sind, in einem separaten Segment gebündelt (Demilitarisierte 
+Zone)?
+  nein    ja
+Änderungs- / Patchmanagement / Alt-Systeme
+Existiert ein Prozess bei Systemänderungen, der Sicherheits- und Datenschutzrisiken bei Installationen,  
+Konfigurationsänderungen, System- oder Infrastrukturveränderungen (z. B. Patch-Installationen, Regelwerks-  
+änderungen, etc.) berücksichtigt)?
+  nein    ja
+Wenn ja: Ist dieser Prozess ticket-gesteuert?
+  nein    ja
+Spielen Sie durchgehend und zeitnah Sicherheitsupdates (max. 30 Tage nach Erscheinen der Herstellerupdates) 
+ein (Patch-Management-Prozess)?
+  nein    ja
+Wenn ja: Ist dieser Prozess zentral gesteuert?
+  nein    ja
+Wenn ja: Ist dieser Prozess automatisiert?
+  nein    ja
+Werden Altsysteme betrieben, also Systeme, die im Rahmen der bisher / ursprünglich beschafften Lizenzen nicht 
+mehr mit Herstellerupdates versorgt werden (z.B. Windows 7, Windows XP etc.) und für die der Hersteller keine 
+Softwareupdates mehr ohne zusätzliche Lizenzierung bereitstellt?
+  nein    ja
+Wenn ja: Bitte bestätigen Sie, dass alle Altsysteme ausschließlich in einer komplett isolierten Umgebung   
+betrieben werden?
+  nein    jaRISIKOERFASSUNG CYBER-VERSICHERUNG  6
+STAND: 02/2021
+MÜLLER AG | SCHILLERALLEE 42 | 12345 NEUSTADT
+MÜLLER AG | BLUMENWEG 42 | 12345 FANTASIESTADT
+Wenn nicht alle Altsysteme ausschliesslich in einer komplett isolierten Umgebung betrieben werden, beschreiben Sie bitte Art, Anzahl und Aufgaben der vorhandenen Altsysteme sowie vorgesehene Schutzmaßnahmen genauer.
+Berechtigungsmanagement
+Haben sämtliche Benutzer von Systemen, Anwendungen und unterstützenden Infrastrukturen der Bürokommunikation, die persönliche Informationen sammeln, verarbeiten oder speichern, einen personalisierten Account?
+  nein    ja
+ Werden administrative Accounts auch nur für administrative Aufgaben verwendet?
+  nein    ja
+Gibt es ein abgestuftes Rechtekonzept mit administrativen Kennungen ausschließlich für IT-Verantwortliche?
+  nein    ja
+Werden Log-Dateien über eine angemessene Zeit gesammelt?
+  nein    ja, nämlich:
+Sind die Passwörter von Telekommunikationsanlagen (u.a. Telefonen und Anrufbeantwortern) von der Werkseinstellung abgeändert worden?
+  nein    ja
+Gibt es Fernzugriffsmöglichkeiten auf Ihre Systeme (Fernwartung, Remote Desktops, etc.)?
+  nein    ja
+Wenn ja: Welche Sicherheitsmechanismen werden für diese eingesetzt (z.B. Zwei-Faktoren Authentifizierung)?
+Existieren Passwortrichtlinien, die komplexe Anforderungen an Passwörter enthalten (z. B. Verwendung von Ziffern und Buchstaben, keine Verwendung von bereits benutzten Passwörtern)?
+  nein    ja
+Werden bei Kündigung eines Mitarbeiters, Jobwechsel oder Kündigung eines Lieferantenvertrags mit einer dritten Partei Benutzerzugänge zu Systemen, Anwendungen und unterstützenden Infrastrukturen, die persönliche Informationen sammeln, verarbeiten oder speichern, innerhalb eines angemessenen Zeitraums gesperrt?
+  nein    ja
+Werden Heim- / Telearbeitsplätze genutzt?
+  nein    ja
+Wenn ja: Sind die Heim-/Telearbeitsplätze auf dem gleichen Schutzniveau wie die Unternehmensarbeitsplätze?
+  nein    ja
+Sonstiges
+Wird der physische Zugang zu Daten und IT kontrolliert?
+  nein    ja
+Werden hohe Überweisungen durch besondere Sicherheitsmaßnahmen geschützt?
+  nein    ja, nämlich: RISIKOERFASSUNG CYBER-VERSICHERUNG  7
+STAND: 02/2021
+MÜLLER AG | BLUMENWEG 42 | 12345 FANTASIESTADT8. Art und Umfang der Produktions-IT
+Werden Bereiche der Produktion durch eine automatisierte Prozesssteuerung (ICS = Industrielle Steuerungs- und Automatisierungssysteme) betrieben oder unterstützt?
+  nein    ja, nämlich:
+Bitte geben Sie eine Beschreibung: (welche Produktionsbereiche, wie ICS-gesteuert, welche Betriebszeiten?).
+Ist eine Sicherheitspolitik formuliert und ein Sicherheitsmanagement etabliert?
+  nein    ja
+Sind im Produktionsbereich Sicherheitszonen und -perimeter etabliert?
+  nein    ja
+Gibt es Fernwartungszugänge in den Produktionsbereich? 
+  nein    ja
+Wenn ja: Wie werden diese abgesichert?
+Ist eine Netzwerktrennung zwischen Büroarbeitsplätzen und Produktionsanlagen umgesetzt?
+  nein    ja
+Wenn ja: Ist die Kommunikation zwischen Büro und Produktionsanlage über eine Verschlüsslung, Authentifizierung und Protokollierung geschützt? 
+  nein    ja
+Wenn nein: bitte erläutern Sie, wie Sie die Produktions-IT gesichert haben.
+9. Krisenmanagement 
+Existiert ein Notfallplan, der bei Störungen die Aufrechterhaltung bzw. den Wiederanlauf betriebsnotwendiger IT-Systemen festlegt?
+  nein    ja
+Wenn ja: Enthält dieser Plan folgende Elemente (bitte Zutreffendes ankreuzen):  
+Feste Aufgabenverteilung für die Behandlung des Vorfalls im Unternehmen?  
+Kommunikationsplan für Kunden und andere Betroffene?  
+Wird dieser Notfallplan regelmäßig aktualisiert?   nein    ja
+Wenn ja: In welchem Turnus?
+Ist eine physische Notfallkontaktliste für Cyber-Vorfälle vorhanden (z.B. als Ausdruck)?
+  nein    jaRISIKOERFASSUNG CYBER-VERSICHERUNG  8
+STAND: 02/2021
+MÜLLER AG | BLUMENWEG 42 | 12345 FANTASIESTADT10. Schadenhistorie und bekannte Umstände
+Kam es in den letzten fünf Jahren im Zusammenhang mit einem Cyber- oder Datenschutz-Vorfall in den zu versichernden Unternehmen zu
+•  der Einleitung einer Klage, eines Auskunfts- oder Ermittlungsverfahrens durch eine Aufsichtsbehörde oder öffentliche Stelle,
+• der Geltendmachung eines Schadenersatzanspruches durch einen Dritten,  
+•  zu finanziellen Verlusten (z.B. Vermögensabflüsse durch Computerbetrug, Aufwendungen für die Wiederherstellung von Daten und Programmen o.Ä.)?
+  nein    ja
+Ist Ihnen ferner ein konkreter Umstand bekannt, der Sie ein Eintreten dieser Fälle vermuten lässt?
+  nein    ja
+Ist Ihnen ein Cyber-Angriff in den zu versichernden Unternehmen durch DoS-Attacken, Malware oder Hacker mit der Folge eines mehrstündigen Systemausfalls bekannt geworden? 
+  nein    ja
+Wenn ja: Bitte beschreiben Sie jeden Vorfall genauer (Schadendatum, Schadenhergang und inhaltlicher und monetärer Schadenumfang // Welche Maßnahmen wurden ergriffen, um den Eintritt gleichartiger Vorfälle in Zukunft zu  vermeiden?)
+Wurde der Schaden bereits abschliessend behoben?   nein    ja
+Falls nein: Bitte nennen Sie die Dauer und den Umfang der noch anfallenden Arbeiten:
+Falls ja: Wie wurde festgestellt, dass die betroffenen Systeme nach der Schadenbehebung frei von Schadsoftware sind?RISIKOERFASSUNG CYBER-VERSICHERUNG  9
+STAND: 02/2021
+MÜLLER AG | BLUMENWEG 42 | 12345 FANTASIESTADT
+Besonderer Hinweis auf die Folgen einer Verletzung der vorvertraglichen Anzeigepflicht gemäß §§ 19 ff. Versicherungsvertragsgesetz (VVG)
+Bitte beachten Sie: Die Versicherungsnehmerin ist gem. § 19 Abs. 1 VVG verpflichtet, dem Versicherer bis zur Abgabe ihrer Vertragserklärung die ihr bekannten Gefahrumstände anzuzeigen, die für die Übernahme des Versicherungsschutzes und den Entschluss des Versicherers, den Vertrag mit dem vereinbarten Inhalt zu schließen, erheblich sind und nach denen der Versicherer in Textform gefragt hat. Stellt der Versicherer nach der Vertragserklärung der Versicherungsnehmerin, aber vor Vertragsannahme Fragen im Sinn des § 19 Absatz 1 Satz 1 VVG, ist die Versicherungsnehmerin auch insoweit zur Anzeige verpflichtet.Für den Fall, dass die Versicherungsnehmerin ihre vorvertragliche Anzeigepflicht verletzt, indem sie die ihr bekannten Gefahrumstände, nach denen der Versicherer in Textform gefragt hat, nicht oder unrichtig anzeigt, belehren wir die Versicherungsnehmerin über folgende Rechtsfolgen: 
+Je nachdem, ob die Versicherungsnehmerin die Anzeigenpflicht vorsätzlich, grob fahrlässig oder leicht fahrlässig verletzt, kann der Versicherer vom Vertrag zurücktreten, ihn kündigen oder, bei Vorliegen bestimmter Voraussetzungen, den Vertrag anpassen.Sofern die Versicherungsnehmerin die Anzeigepflicht vorsätzlich oder grob fahrlässig verletzt, kann der Versicherer vom Vertrag zurücktreten (§19 Abs. 2, Abs. 3 Satz 1 VVG).Erfolgt ein Rücktritt vom Vertrag, ist der Versicherer nicht zur Leistung verpflichtet, es sei denn die Verletzung der Anzeigepflicht bezieht sich auf einen Umstand, der weder für den Eintritt oder die Feststellung des Versicherungsfalles noch für die Feststellung oder den Umfang der Leistungspflicht des Versicherers ursächlich ist (§ 21 Abs. 2 VVG).Sofern die Versicherungsnehmerin die Anzeigepflicht leicht fahrlässig verletzt, kann der Versicherer den Vertrag unter Einhaltung einer Frist von einem Monat kündigen (§ 19 Abs. 3 VVG)Außer im Falle der vorsätzlichen Verletzung der Anzeigepflicht sind das Rücktrittsrecht und das Kündigungsrecht des Versicherers ausgeschlossen, wenn der Versicherer den Vertrag auch bei Kenntnis der nicht angezeigten Umstände, wenn auch zu anderen Bedingungen geschlossen hätte. Der Versicherer kann in diesem Fall eine Vertragsanpassung verlangen, durch die die anderen Bedingungen rückwirkend, bei einer von der Versicherungsnehmerin nicht zu vertretenden Pflichtverletzung ab der laufenden Versicherungsperiode Vertragsbestandteil werden (§ 19 Abs. 4 VVG).Die Rechte sind ausgeschlossen, wenn der Versicherer den nicht angezeigten Gefahrumstand oder die Unrichtigkeit der Anzeige kannte (§ 19 Abs. 5 Satz 2 VVG).Das Recht des Versicherers, den Vertrag wegen arglistiger Täuschung anzufechten, bleibt unberührt. Sofern der Vertrag wegen einer arglistigen Täuschung vom Versicherer wirksam angefochten wird, ist der Versicherer nicht zur Leistung verpflichtet (§ 22 VVG).
+  Die Hinweise zur vorvertraglichen Anzeigepflicht haben wir zur Kenntnis genommen.  
+Name / Ort / Datum Unterschrift
+Position im Unternehmen

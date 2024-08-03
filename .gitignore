@@ -12,6 +12,7 @@ tests/media/
 open-webui/
 myenv/
 venv
+.venv/
 .idea
 .nicegui/
 *.sqlite*
